@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Binita</h1>
 <h3 align="center">A frontend developer. I have interest in react, javascript, html. </h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/binitaepa&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/binitaepa&theme=default)
+#  Recent Stats 📈 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=binitaepa&theme=vue)](https://git.io/streak-stats)
 ## Technologies I Know 💻
 
 <p align="center">
@@ -28,3 +27,7 @@
 - 💬 Ask me about what you want.
 - 📫 How to reach me: binitaepa@gmail.com
 - ⚡ Fun fact: I can talk funny.I am also serious about work.
+
+## Projects 🌱 
+- Dream house (https://dream-house-877c7.web.app/) which is a real estate agent ,admin and client type website.
+-Food Donation (https://food-donation-bc75e.web.app) one can donate food that is not needed .
