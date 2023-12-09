@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Binita</h1>
 <h3 align="center">A frontend developer. I have interest in react, javascript, html. </h3>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/binitaepa&theme=default)
 
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/binitaepa&theme=default)
 ## Technologies I Know 💻
 
 <p align="center">
