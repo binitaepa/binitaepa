@@ -1,8 +1,15 @@
+
+<h1 align="center" >
+ <img src="assests/github-header-image.png"  width="full" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Binita</h1>
 <h3 align="center">A frontend developer. I have interest in react, javascript, html. </h3>
 
 #  Recent Stats 📈 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=binitaepa&theme=vue)](https://git.io/streak-stats)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=binitaepa&theme=vue)](https://git.io/streak-stats)
+
 ## Technologies I Know 💻
 
 <p align="center">
